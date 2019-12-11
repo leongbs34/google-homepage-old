@@ -1,0 +1,29 @@
+.searchbar {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;	
+	padding: 0;
+	text-align: right;
+}
+
+li {
+	display: inline;
+}
+
+li a {
+	width: 60px;
+	text-decoration: none;
+	color: black;
+}
+
+li a:hover {
+	text-decoration: underline;
+}
